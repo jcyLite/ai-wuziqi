@@ -1,0 +1,241 @@
+{
+  "board_size": 15,
+  "board": [
+    {
+      "x": 7,
+      "y": 7,
+      "color": "black",
+      "move_number": 1
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "color": "white",
+      "move_number": 2
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "color": "black",
+      "move_number": 3
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "color": "white",
+      "move_number": 4
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "color": "black",
+      "move_number": 5
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "color": "white",
+      "move_number": 6
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "color": "black",
+      "move_number": 7
+    },
+    {
+      "x": 9,
+      "y": 9,
+      "color": "white",
+      "move_number": 8
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "color": "black",
+      "move_number": 9
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "color": "white",
+      "move_number": 10
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "color": "black",
+      "move_number": 11
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "color": "white",
+      "move_number": 12
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "color": "black",
+      "move_number": 13
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "color": "white",
+      "move_number": 14
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "color": "black",
+      "move_number": 15
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "color": "white",
+      "move_number": 16
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "color": "black",
+      "move_number": 17
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "color": "white",
+      "move_number": 18
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "color": "black",
+      "move_number": 19
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "color": "white",
+      "move_number": 20
+    }
+  ],
+  "current_player": "white",
+  "move_count": 20,
+  "last_move": {
+    "x": 9,
+    "y": 5,
+    "color": "white",
+    "move_number": 20
+  },
+  "players": {
+    "black": "ai_black",
+    "white": "ai_white"
+  },
+  "status": "finished",
+  "winner": "white",
+  "history": [
+    {
+      "x": 7,
+      "y": 7,
+      "color": "black"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "color": "white"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "color": "black"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "color": "white"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "color": "black"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "color": "white"
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "color": "black"
+    },
+    {
+      "x": 9,
+      "y": 9,
+      "color": "white"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "color": "black"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "color": "white"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "color": "black"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "color": "white"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "color": "black"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "color": "white"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "color": "black"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "color": "white"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "color": "black"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "color": "white"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "color": "black"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "color": "white"
+    }
+  ]
+}
